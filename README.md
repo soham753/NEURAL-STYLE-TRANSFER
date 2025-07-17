@@ -71,15 +71,31 @@ This project can be applied to:
 ##Input
 
 **Content Image**  
-![Content](https://github.com/user-attachments/assets/b5fdc43a-5dae-4968-8a52-38dc4a2f6981)
+<img src="https://github.com/user-attachments/assets/b5fdc43a-5dae-4968-8a52-38dc4a2f6981" width="400"/>
+
 
 
 **Style Image**  
-![Style](https://github.com/user-attachments/assets/95296d53-6bed-4ff7-9f5c-c4d8d57ec377)
+<img src="https://github.com/user-attachments/assets/95296d53-6bed-4ff7-9f5c-c4d8d57ec377" width="500"/>
+
 
 ---
 
 ##Output:-
+
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9f3c39b0-b03c-48c7-a4ba-992728f307e8" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/18314838-8cca-43dd-b9a1-8131d11d2277" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/16b71f0c-3a30-4305-a9a8-d257cc359603" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/764f7923-46fd-400d-b6a7-2a69c675be8e" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5b9eb084-3ef4-4acf-909e-3072fca4583c" width="300"/></td>
+    <td><img width="300"  alt="Figure_1" src="https://github.com/user-attachments/assets/02ad5a84-26c0-4a80-b101-1460ea0dd92c" /></td>
+  </tr>
+</table>
 
 
 
